@@ -21,3 +21,4 @@ The following pieces of information have been excluded from this repository:
 </ol>
 
 <h3> ESP32 & BM280 Wiring</h3>
+![Wiring Schematic](https://github.com/LeonJelsma/IoTFundamentalsProject/blob/feature/sensor-setup/Sensor/setup/SensorSchematic.png)
