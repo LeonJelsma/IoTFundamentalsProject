@@ -24,4 +24,3 @@ The following pieces of information have been excluded from this repository:
 
 ![Wiring Schematic](https://github.com/LeonJelsma/IoTFundamentalsProject/blob/master/Sensor/setup/SensorSchematic.png)
 
-![Wiring Schematic](https://github.com/LeonJelsma/IoTFundamentalsEndProject/blob/feature/sensor-setup/Sensor/setup/SensorSchematic.png)
